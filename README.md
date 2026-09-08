@@ -2,7 +2,7 @@
 
 # Jes🎐⋆｡˚🫧𓇼⊹𓆉
 
-**welcome to this distant chore i call profile, its full of digital beach trash in here**
+**welcome to this distant shore i call profile, its full of digital beach trash in here**
 
 Currently a Systems Information Engineering and Industrial Engineering student. Versatile and passionate developer with experience in front-end architecture, cybersecurity, and data analysis. Skilled in React, Next.js, and TypeScript, with a strong background in software design, secure coding practices, and creating intuitive user experiences.
 
