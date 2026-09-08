@@ -36,6 +36,21 @@ Cybersecurity focus, working with SOC environments, ESET Protect Elite, Wireshar
   <img src="https://img.shields.io/badge/Docker-87CEFA?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git&logoColor=black" />
   <img src="https://img.shields.io/badge/Wireshark-87CEFA?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-FFD700?style=for-the-badge&logo=sqlite&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-87CEFA?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFD700?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Visual_Studio-87CEFA?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-FFD700?style=for-the-badge&logo=visual-studio-code&logoColor=black" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-87CEFA?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-FFD700?style=for-the-badge&logo=virtualbox&logoColor=black" />
+  <img src="https://img.shields.io/badge/VMware-87CEFA?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Packet_Tracer-FFD700?style=for-the-badge&logo=cisco&logoColor=black" />
+  <img src="https://img.shields.io/badge/pgAdmin_4-87CEFA?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Enterprise_Architect-FFD700?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/SAST_Tools-87CEFA?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SIEM_Tools-FFD700?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Minitab-87CEFA?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Report_Builder-FFD700?style=for-the-badge&logo=microsoft&logoColor=black" />
   <br><br>
   <i>I fully expect you to recognize every single icon here because I won't elaborate</i>
 </div>
