@@ -52,5 +52,5 @@ Cybersecurity focus, working with SOC environments, ESET Protect Elite, Wireshar
   <img src="https://img.shields.io/badge/Minitab-87CEFA?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Report_Builder-FFD700?style=for-the-badge&logo=microsoft&logoColor=black" />
   <br><br>
-  <i>I fully expect you to recognize every single icon here because I won't elaborate</i>
+  <i> tadahhh </i>
 </div>
